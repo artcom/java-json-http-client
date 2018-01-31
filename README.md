@@ -1,6 +1,6 @@
 # JSON Http Client for Java
 
-A small utility library which performs HTTP queries with an JSON API.
+A thin utility library performing HTTP queries with automatic JSON de-/serialization.
 
 ## Building from source with Gradle
 From command line: `./gradlew build`
