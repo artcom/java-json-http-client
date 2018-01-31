@@ -1,4 +1,4 @@
-# HiveMQ Http Client for Java
+# JSON Http Client for Java
 
 A small utility library which performs HTTP queries with an JSON API.
 
